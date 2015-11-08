@@ -1,5 +1,6 @@
 # MiniNav
-Exercice "MiniNav" de la semaine 5 du MOOC "Programmation iPhone et iPad". Réalisation : 05 juin 2014
+Exercice "MiniNav" de la semaine 5 du MOOC "Programmation iPhone et iPad".<br/>
+Réalisation : 05 juin 2014
 
 - ARC désactivé.
 - Structure MVC.
